@@ -1,0 +1,1 @@
+It is my take one convolution added Vision Transformer. 
